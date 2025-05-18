@@ -8,7 +8,7 @@ Me chamo Marcos De Sousa Oliveira, tenho 20 anos e sou de Alvorada do Gurguéia.
     <a ">
         <img 
         <img 
-            alt="youtube subscribers" 
+            alt="" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
