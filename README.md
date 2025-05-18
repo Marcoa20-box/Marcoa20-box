@@ -12,7 +12,7 @@ Me chamo Marcos De Sousa Oliveira, tenho 20 anos e sou de Alvorada do Gurguéia.
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
