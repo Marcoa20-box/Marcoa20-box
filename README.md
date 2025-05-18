@@ -2,9 +2,10 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Marcos De Sousa Oliveira, tenho 20 anos e sou de Alvorada do Gurguéia.  
+Me chamo Marcos De Sousa Oliveira, tenho 20 anos e sou de Alvorada do Gurguéia.
+
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a ">
         <img 
         <img 
             alt="youtube subscribers" 
