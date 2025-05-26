@@ -8,6 +8,6 @@ Me chamo Marcos de Sousa Oliveira, tenho 20 anos e sou de  Alvorada do Gurguéia
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Marcos-Sousa-Oliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
