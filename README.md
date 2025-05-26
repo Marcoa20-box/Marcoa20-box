@@ -4,10 +4,10 @@
 
 Me chamo Marcos de Sousa Oliveira, tenho 20 anos e sou de  Alvorada do Gurguéia, eu sou novo na área da programação, o meu próximo objetivo é aprender back-end, Meu instagram, "[Marcos Sousa](https://www.instagram.com/marcos_sousa_204?utm_source=qr&igsh=em85YmtsMjQ2Zm1p) 
 
-  <a href="https://www.youtube.com/@larissakich">
+ <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a> 
+    </a>
